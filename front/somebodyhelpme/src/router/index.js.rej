@@ -1,0 +1,9 @@
+diff a/front/somebodyhelpme/src/router/index.js b/front/somebodyhelpme/src/router/index.js	(rejected hunks)
+@@ -20,6 +20,7 @@
+ -import AboutSidebar from "@/components/sidebar/AboutSidebar.vue";
+ -import CommandSidebar from "@/components/sidebar/CommandSidebar.vue";
+ +// import AboutSidebar from "@/components/sidebar/AboutSidebar.vue";
+++// import CommandSidebar from "@/components/sidebar/CommandSidebar.vue";
+  import AuctionDetail from "../components/home/AuctionDetail.vue";
+  Vue.use(Router);
+  
