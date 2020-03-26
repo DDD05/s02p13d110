@@ -74,7 +74,12 @@ $ npm run serve
 $ Run s02p13d110\back\Somebody\src\main\java\com\ssafy\somebody\SomebodyApplication.java
 ```
 
-
+##### Test ID
+테스트 접속 계정
+```text
+ID : qwe
+PWD : qwe
+```
 
 ## Depoly
 
