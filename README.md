@@ -95,3 +95,11 @@ $ docker run -d -it -p 80:8888 --name "springboot" dhzm2aud/springboot:1.2.4 /bi
 ~# java -jar somebody-0.0.1-SNAPSHOT.jar
 ```
 
+## Design
+
+<img src="./doc/somebody01.png" alt="시작페이지" width="800">
+<img src="./doc/somebody02.png" alt="회원가입" width="800">
+<img src="./doc/somebody03.png" alt="경매 등록" width="800">
+<img src="./doc/somebody04.png" alt="경매 조회" width="800">
+<img src="./doc/somebody05.png" alt="결제" width="800">
+<img src="./doc/somebody06.png" alt="메인화면" width="800">
