@@ -10,7 +10,7 @@
   "dependencies": {
     "@johmun/vue-tags-input": "^2.1.0",
     "@vue/eslint-config-prettier": "^6.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.4.4",
     "easy-circular-progress": "^1.0.4",
     "firebase": "^7.7.0",
